@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0m[32mQueueOperationTest:[0m[0m
+[0m[[0minfo[0m] [0m[31m- check double queue *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  List(6, 8, 9) did not equal 2 (QueueOperationTest.scala:15)[0m[0m
+[0m[[0minfo[0m] [0m[31m- check square queue *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  List(6, 8, 9) did not equal 4 (QueueOperationTest.scala:20)[0m[0m

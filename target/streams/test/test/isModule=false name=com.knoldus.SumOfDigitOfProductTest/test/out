@@ -1,0 +1,3 @@
+[0m[[0minfo[0m] [0m[32mSumOfDigitOfProductTest:[0m[0m
+[0m[[0minfo[0m] [0m[31m- Sum of digit of the factorial *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  3 did not equal 25 (SumOfDigitOfProductTest.scala:9)[0m[0m

@@ -1,0 +1,22 @@
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.knoldus.ConsecutiveLetterTest, org.scalatest.tools.Framework$$anon$1@167fb73d, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.knoldus.MultipleQuestion_01Test, org.scalatest.tools.Framework$$anon$1@167fb73d, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.knoldus.CalculateAreaTest, org.scalatest.tools.Framework$$anon$1@167fb73d, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.knoldus.FibonacciLimitTest, org.scalatest.tools.Framework$$anon$1@167fb73d, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.knoldus.QueueOperationTest, org.scalatest.tools.Framework$$anon$1@167fb73d, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.knoldus.SumOfDigitOfProductTest, org.scalatest.tools.Framework$$anon$1@167fb73d, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.knoldus.BankTest, org.scalatest.tools.Framework$$anon$1@167fb73d, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[36mRun completed in 1 second, 150 milliseconds.[0m[0m
+[0m[[0minfo[0m] [0m[36mTotal number of tests run: 16[0m[0m
+[0m[[0minfo[0m] [0m[36mSuites: completed 7, aborted 0[0m[0m
+[0m[[0minfo[0m] [0m[36mTests: succeeded 12, failed 4, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0minfo[0m] [0m[31m*** 4 TESTS FAILED ***[0m[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	com.knoldus.MultipleQuestion_01Test[0m
+[0m[[0mdebug[0m] [0m	com.knoldus.FibonacciLimitTest[0m
+[0m[[0mdebug[0m] [0m	com.knoldus.ConsecutiveLetterTest[0m
+[0m[[0mdebug[0m] [0m	com.knoldus.CalculateAreaTest[0m
+[0m[[31merror[0m] [0mFailed tests:[0m
+[0m[[31merror[0m] [0m	com.knoldus.BankTest[0m
+[0m[[31merror[0m] [0m	com.knoldus.SumOfDigitOfProductTest[0m
+[0m[[31merror[0m] [0m	com.knoldus.QueueOperationTest[0m
+[0m[[31merror[0m] [0m(test:[31mtest[0m) sbt.TestsFailedException: Tests unsuccessful[0m

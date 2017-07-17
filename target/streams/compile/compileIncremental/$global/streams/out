@@ -1,0 +1,113 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(/home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/FibonacciLimit.scala, /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/QueueOperation.scala, /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/SumOfDigitOfProduct.scala, /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/ValueClass.scala, /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/MultipleQuestion_01.scala, /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/CalculateArea.scala, /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/Person.scala, /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/ConsecutiveLetter.scala, /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/Bank.scala, /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/Queue.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/FibonacciLimit.scala, /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/QueueOperation.scala, /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/SumOfDigitOfProduct.scala, /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/ValueClass.scala, /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/MultipleQuestion_01.scala, /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/CalculateArea.scala, /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/Person.scala, /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/ConsecutiveLetter.scala, /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/Bank.scala, /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/Queue.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/FibonacciLimit.scala, /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/QueueOperation.scala, /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/SumOfDigitOfProduct.scala, /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/ValueClass.scala, /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/MultipleQuestion_01.scala, /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/CalculateArea.scala, /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/Person.scala, /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/ConsecutiveLetter.scala, /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/Bank.scala, /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/Queue.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/FibonacciLimit.scala, /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/QueueOperation.scala, /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/SumOfDigitOfProduct.scala, /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/ValueClass.scala, /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/MultipleQuestion_01.scala, /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/CalculateArea.scala, /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/Person.scala, /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/ConsecutiveLetter.scala, /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/Bank.scala, /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/Queue.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 10 sources: invalidated sources (10) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 10 Scala sources to /home/knoldus/Desktop/Scala 02/Scala01-Assignment/target/scala-2.12/classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.15:component from component compiler for Scala 2.12.2[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.15:component from component compiler for Scala 2.12.2[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 42837727, interfacing (CompilerInterface) with Scala compiler version 2.12.2[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-Xplugin:/home/knoldus/.ivy2/cache/org.scoverage/scalac-scoverage-plugin_2.12/jars/scalac-scoverage-plugin_2.12-1.3.0.jar[0m
+[0m[[0mdebug[0m] [0m	-P:scoverage:dataDir:/home/knoldus/Desktop/Scala 02/Scala01-Assignment/target/scala-2.12/scoverage-data[0m
+[0m[[0mdebug[0m] [0m	-Yrangepos[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-8-oracle/jre/lib/resources.jar:/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jce.jar:/usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar:/usr/lib/jvm/java-8-oracle/jre/classes:/home/knoldus/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/Desktop/Scala 02/Scala01-Assignment/target/scala-2.12/classes:/home/knoldus/.ivy2/cache/org.scoverage/scalac-scoverage-runtime_2.12/jars/scalac-scoverage-runtime_2.12-1.3.0.jar[0m
+[0m[[0minfo[0m] [0m[info] Cleaning datadir [/home/knoldus/Desktop/Scala 02/Scala01-Assignment/target/scala-2.12/scoverage-data][0m
+[0m[[0minfo[0m] [0m[info] Beginning coverage instrumentation[0m
+[0m[[0minfo[0m] [0m[info] Instrumentation completed [176 statements][0m
+[0m[[0minfo[0m] [0m[info] Wrote instrumentation file [/home/knoldus/Desktop/Scala 02/Scala01-Assignment/target/scala-2.12/scoverage-data/scoverage.coverage.xml][0m
+[0m[[0minfo[0m] [0m[info] Will write measurement data to [/home/knoldus/Desktop/Scala 02/Scala01-Assignment/target/scala-2.12/scoverage-data][0m
+[0m[[0mdebug[0m] [0mScala compilation took 15.753182697 s[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/QueueOperation.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/QueueOperation.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/QueueOperation.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/QueueOperation.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/QueueOperation.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, dequeue, wait, $asInstanceOf, SquareQueue, equals, asInstanceOf, synchronized, $isInstanceOf, enqueue, notifyAll, isInstanceOf, <init>, ==, clone, $init$, toString, !=, getClass, ne, DoubleQueue, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/Queue.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/Queue.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/Queue.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Including /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/QueueOperation.scala by /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/Queue.scala[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/QueueOperation.scala, /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/Queue.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/Queue.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, dequeue, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, enqueue, notifyAll, isInstanceOf, ==, clone, Queue, $init$, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/QueueOperation.scala: Set(dequeue, enqueue, Queue)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/ConsecutiveLetter.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/ConsecutiveLetter.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/ConsecutiveLetter.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/ConsecutiveLetter.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/ConsecutiveLetter.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, notifyAll, isInstanceOf, ConsecutiveLetter, <init>, ==, clone, toString, !=, getClass, findConsecutive, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/MultipleQuestion_01.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/MultipleQuestion_01.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/MultipleQuestion_01.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/MultipleQuestion_01.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/MultipleQuestion_01.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, listSum, sumOfTwoList, wait, $asInstanceOf, MultipleQuestion_01, equals, asInstanceOf, synchronized, $isInstanceOf, elePascalTriangle, ints, notifyAll, square, isInstanceOf, <init>, cubes, ==, clone, toString, !=, getClass, ne, eq, sum, ##, finalize, hashCode, gcd.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/SumOfDigitOfProduct.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/SumOfDigitOfProduct.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/SumOfDigitOfProduct.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/SumOfDigitOfProduct.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/SumOfDigitOfProduct.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	SumOfDigitOfProduct, notify, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, notifyAll, isInstanceOf, fact, <init>, ==, clone, toString, !=, getClass, ne, eq, sum, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/ValueClass.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/ValueClass.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/ValueClass.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/ValueClass.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/ValueClass.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, LastName, wait, $asInstanceOf, Assignment4_ValueClass, equals, asInstanceOf, synchronized, FirstName, $isInstanceOf, age, notifyAll, isInstanceOf, lastName, firstName, <init>, Age, ==, clone, displayDetails, toString, !=, getClass, ne, ValueClass, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/FibonacciLimit.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/FibonacciLimit.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/FibonacciLimit.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/FibonacciLimit.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/FibonacciLimit.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, equals, FibonacciLimit, asInstanceOf, synchronized, $isInstanceOf, notifyAll, isInstanceOf, <init>, ==, clone, toString, !=, getClass, ne, eq, ##, finalize, FibonacciSeries, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/CalculateArea.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/CalculateArea.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/CalculateArea.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/CalculateArea.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/CalculateArea.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, area, rhombusArea, wait, $asInstanceOf, equals, asInstanceOf, rectangleArea, synchronized, $isInstanceOf, CalculateArea, notifyAll, isInstanceOf, parellelogramArea, <init>, ==, clone, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/Person.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/Person.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/Person.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/Person.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/Person.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, name, wait, <=, $asInstanceOf, equals, asInstanceOf, <, synchronized, $isInstanceOf, >=, age, notifyAll, compareTo, isInstanceOf, <init>, Person, ==, clone, $init$, toString, !=, getClass, ne, eq, compare, >, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/Bank.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/Bank.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/Bank.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/Bank.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/knoldus/Desktop/Scala 02/Scala01-Assignment/src/main/scala/com/knoldus/Bank.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, name, wait, copy$default$2, $asInstanceOf, productArity, equals, debit, asInstanceOf, synchronized, $isInstanceOf, credit, canEqual, balance, productPrefix, notifyAll, isInstanceOf, <init>, id, ==, clone, $init$, copy$default$3, copy, toString, !=, getClass, copy$default$1, checkBalance, ne, Bank, eq, productIterator, ##, finalize, productElement, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
